@@ -1,6 +1,7 @@
 name: EhAntiPortal
 author: Nirewen
 description: Quebra portais quando players entram neles
-version: 2.0
+version: "2.0"
+api-version: "1.13"
 main: net.ehaqui.ehantiportal.Main
 depend: [EhCore]
